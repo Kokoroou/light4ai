@@ -44,7 +44,7 @@ About how to classify a model as lightweight, please refer to [this](./docs/ligh
             <td rowspan="10">Image Classification</td>
             <td rowspan="10">ImageNet</td>
             <td><a href="https://paperswithcode.com/sota/image-classification-on-imagenet#:~:text=TinyViT%2D21M%2D512%2Ddistill">TinyViT-21M-512-distill</a></td>
-            <td>? MB</td>
+            <td>81.3 MB</td>
             <td>86.5%</td>
             <td><a href="https://github.com/microsoft/Cream/tree/main/TinyViT">Link</a></td>
         </tr>
